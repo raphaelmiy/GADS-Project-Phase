@@ -6,3 +6,4 @@ This repository will contain all code and scripts from the GADS project phase. C
 
 - Document the code
 - Add screenshots of completed labs
+- Get the certification
